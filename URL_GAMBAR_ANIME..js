@@ -1,4 +1,4 @@
-  'https://files.catbox.moe/4foikc.jpg',
+['https://files.catbox.moe/4foikc.jpg',
 	'https://files.catbox.moe/8b881u.jpg',
 	'https://files.catbox.moe/azbrp4.jpg',
 	'https://files.catbox.moe/zrezka.jpg',
@@ -116,4 +116,4 @@
 	'https://files.catbox.moe/1pqoks.jpeg',
 	'https://files.catbox.moe/dsvf0d.jpeg',
 	'https://files.catbox.moe/6r79h5.jpeg',
-	'https://files.catbox.moe/ecguii.jpeg'
+	'https://files.catbox.moe/ecguii.jpeg' ]
